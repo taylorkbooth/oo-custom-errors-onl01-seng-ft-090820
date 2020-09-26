@@ -1,3 +1,5 @@
+ruby lib/custom_errors.rb
+
 class Person
   attr_accessor :partner, :name
 
